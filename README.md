@@ -1,4 +1,4 @@
-# Spark tasks
+# Spark tasks (pet-project)
 
 ## **Task1. Bigram Search in Wikipedia Corpus**
 
